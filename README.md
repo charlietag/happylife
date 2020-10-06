@@ -19,6 +19,10 @@ And then execute:
 $ bundle
 ```
 
+```bash
+rails happylife:install:migrations
+```
+
 Or install it yourself as:
 ```bash
 $ gem install happylife
